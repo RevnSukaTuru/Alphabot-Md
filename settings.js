@@ -24,8 +24,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "VBOT MD" //namabot kalian
-global.ownername= "Vanzz SUKA TURU" //nama kalian
+global.botname = "VanzzBOT" //namabot kalian
+global.ownername= "VanzzM" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/VanzzXYT" //bebas asal jan hapus
 global.github = "https://github.com/RevnSukaTuru" //bebas
@@ -33,14 +33,14 @@ global.email = "azwirfree@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285760165634'] //premium user
-global.owner = ["685760165634","6285760165634"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["685760165634"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285760165634" // nomor wa kalian
 global.ownernomerr = "+6285760165634" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© VBOT MD' //sticker wm ubah
-global.author = 'Di Buat Oleh VanzzSukaTuru' //sticker wm ganti nama kalian
+global.packname = '© VanzzBOT' //sticker wm ubah
+global.author = 'Di Buat Oleh VanzzBOT' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
